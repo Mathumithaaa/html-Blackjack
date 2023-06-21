@@ -1,0 +1,31 @@
+body{
+    background-color:darkgreen;
+    font-family:"Trebuchet MS","Lucida Grande","Lucida Sans";
+    background-image:url("Desktop/bg.jpeg");
+    background-size:cover;
+    font-weight:bold;
+  }
+  h1{
+    color:goldenrod;
+    font-size:40px;
+  }
+  p{
+    font-size:25px;
+    color:bisque;
+  }
+  #message-el{
+    color:white;
+    font-style:italic;
+  }
+  .button-el{
+    background-color:goldenrod;
+    color:darkgreen;
+    width:300px;
+    height:40px;
+    font-weight:bold;
+    font-family:"Lucida Sans","arial";
+    font-size:20px;
+    padding:5px;
+    border-radius:3px;
+    margin:3px;
+  }
